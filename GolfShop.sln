@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfShop.Api", "GolfShop.Api\GolfShop.Api.csproj", "{CD0D8E31-B51B-4068-B217-127A176A75C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfShop.Infrastructure", "GolfShop.Infrastructure\GolfShop.Infrastructure.csproj", "{AE218A53-19DE-404E-9253-937D100D70A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfShop.Core", "GolfShop.Core\GolfShop.Core.csproj", "{A19D282E-A37C-4856-A4A5-B7859ED89E64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{CD0D8E31-B51B-4068-B217-127A176A75C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD0D8E31-B51B-4068-B217-127A176A75C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD0D8E31-B51B-4068-B217-127A176A75C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE218A53-19DE-404E-9253-937D100D70A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE218A53-19DE-404E-9253-937D100D70A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE218A53-19DE-404E-9253-937D100D70A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE218A53-19DE-404E-9253-937D100D70A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19D282E-A37C-4856-A4A5-B7859ED89E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19D282E-A37C-4856-A4A5-B7859ED89E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19D282E-A37C-4856-A4A5-B7859ED89E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19D282E-A37C-4856-A4A5-B7859ED89E64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

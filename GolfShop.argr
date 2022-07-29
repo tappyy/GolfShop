@@ -1,0 +1,7 @@
+<ArchitectureGraph>
+  <Module Identifier="CD0D8E31-B51B-4068-B217-127A176A75C6" Name="GolfShop.Api" />
+  <Module Identifier="A19D282E-A37C-4856-A4A5-B7859ED89E64" Name="GolfShop.Core" />
+  <Module Identifier="AE218A53-19DE-404E-9253-937D100D70A5" Name="GolfShop.Infrastructure" />
+  <Reference Identifier="CD0D8E31-B51B-4068-B217-127A176A75C6/r:GolfShop.Core" SourceId="CD0D8E31-B51B-4068-B217-127A176A75C6" Name="GolfShop.Core" TargetId="A19D282E-A37C-4856-A4A5-B7859ED89E64" />
+  <Reference Identifier="AE218A53-19DE-404E-9253-937D100D70A5/r:GolfShop.Core" SourceId="AE218A53-19DE-404E-9253-937D100D70A5" Name="GolfShop.Core" TargetId="A19D282E-A37C-4856-A4A5-B7859ED89E64" />
+</ArchitectureGraph>
